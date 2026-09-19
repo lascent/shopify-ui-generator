@@ -1,6 +1,7 @@
 "use client";
 
-import { Box, Download, Eye, Grid2X2, Heart, PanelLeft, Sparkles } from "lucide-react";
+import { Download, Eye, Grid2X2, Heart, PanelLeft, Sparkles } from "lucide-react";
+import Image from "next/image";
 import { useEditorStore } from "@/store/editor-store";
 import { downloadShopifyTheme } from "@/lib/project-export";
 
@@ -11,11 +12,18 @@ export function Topbar() {
   return (
     <header className="glass z-30 flex h-16 items-center justify-between border-x-0 border-t-0 px-3 md:px-5">
       <div className="flex min-w-0 items-center gap-3.5">
-        <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-[13px] bg-white text-black shadow-[0_8px_28px_rgba(255,255,255,.08)]">
-          <Box size={19} strokeWidth={2.2} />
+        <div className="relative h-10 w-10 shrink-0 overflow-hidden rounded-[13px] border border-white/[.1] shadow-[0_8px_28px_rgba(0,0,0,.28)]">
+          <Image
+            src="/brand/shopify-ui-generator-logo.png"
+            alt="Shopify UI Generator logo"
+            fill
+            priority
+            sizes="40px"
+            className="object-cover"
+          />
         </div>
         <div className="hidden sm:block">
-          <div className="text-[13px] font-semibold tracking-[-.025em]">Shopify <span className="text-violet-300">Generator</span></div>
+          <div className="text-[13px] font-semibold tracking-[-.025em]">Shopify UI <span className="text-violet-300">Generator</span></div>
           <div className="text-[9px] text-white/30">Generative storefront design workspace</div>
         </div>
       </div>

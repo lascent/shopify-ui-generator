@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="public/brand/shopify-ui-generator-logo.png" alt="Shopify UI Generator logo" width="180" />
-</p>
-
 # Shopify UI Generator
 
 **Shopify UI Generator** is an open-source generative ecommerce storefront design tool built with **Next.js, React, TypeScript, Motion, Tailwind CSS, and Zustand**.

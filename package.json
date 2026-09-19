@@ -1,0 +1,37 @@
+{
+  "name": "shopify-ui-generator",
+  "version": "0.37.0",
+  "description": "Open-source generative Shopify-style storefront UI designer with composition, interaction, motion, media, and responsive design intelligence.",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "setup": "node scripts/setup.mjs",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "verify": "node scripts/verify-project.cjs",
+    "check": "npm run verify && npm run typecheck"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "motion": "^13.4.0",
+    "next": "^16.0.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "zod": "^3.24.0",
+    "zustand": "^5.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "postcss": "^8.5.0",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.8.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

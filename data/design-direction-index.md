@@ -1,0 +1,382 @@
+# Design Direction Index
+
+This file retains a searchable summary of the expanded generator direction library.
+
+## Fashion
+- **Fashion Editorial** — editorial / split-showcase / stagger-rise / high-conversion / seed `5d3512e9-c086-4422-a9d4-dd728c35f5e6`
+- **Fashion Street** — minimal / catalog-grid / headline-sweep / fashion-forward / seed `74c582a8-17b2-487f-8ccd-b9c5640d1873`
+- **Fashion Luxury** — tech / minimal-premium / magnetic-hover / technical clear / seed `b4615347-12af-4ac0-95a9-9deafd221407`
+- **Fashion Campaign** — campaign / campaign-drop / parallax-soft / playful warm / seed `fe4ecb10-c439-4c09-b9c7-5d9cb3bbae0e`
+- **Fashion Magazine** — street / lookbook-rail / floating-products / elevated modern / seed `89c41ad4-61a5-405b-90fb-c780c37704f5`
+- **Fashion Conversion** — organic / comparison-tech / cinematic-drift / story-led / seed `63e1667d-6d22-43b2-b793-0550c8c18559`
+- **Fashion Minimal Gallery** — playful / storytelling-scroll / grid-pulse / calm premium / seed `695733ad-3c92-42b1-bdf9-477aa430942d`
+- **Fashion Night Drop** — catalog / mosaic-merch / soft-reveal / high-conversion / seed `6cdf1dd5-07cc-4ba0-97d9-b27747344a27`
+- **Fashion Runway Atelier** — modern / luxury-sparse / stagger-rise / fashion-forward / seed `4864aebd-90fd-49e3-8a28-dff4d817a781`
+- **Fashion Concept Boutique** — luxury / editorial-hero / headline-sweep / technical clear / seed `f75caa94-3126-4625-8a01-c5b6ea4391ff`
+- **Fashion Pop Atelier** — editorial / split-showcase / magnetic-hover / playful warm / seed `f6201a5f-1c57-4579-812e-56a0bf2b141f`
+- **Fashion Gallery House** — minimal / catalog-grid / parallax-soft / elevated modern / seed `a7fc8c98-17a3-4e3a-b082-beff6fe3cc55`
+- **Fashion Members Club** — tech / minimal-premium / floating-products / story-led / seed `0b51c6c2-bacf-4fde-9792-e82f2943f5b3`
+- **Fashion Techwear Lab** — campaign / campaign-drop / cinematic-drift / calm premium / seed `57f817a5-e9b8-42c8-9983-2d2b53a85fff`
+- **Fashion Athleisure Club** — street / lookbook-rail / grid-pulse / high-conversion / seed `2877de35-9141-4a34-9260-fedb1c1a379c`
+- **Fashion Anime Drop** — organic / comparison-tech / soft-reveal / fashion-forward / seed `f1dabb28-c6d5-4eb8-8928-40e528a6af67`
+- **Fashion Modest Luxe** — playful / storytelling-scroll / stagger-rise / technical clear / seed `59583321-e8ea-4189-abbc-4fd02e2599a2`
+- **Fashion Golf Club** — catalog / mosaic-merch / headline-sweep / playful warm / seed `802d201d-0c89-4da0-a21e-512d3969b75b`
+- **Fashion Resort Journal** — modern / luxury-sparse / magnetic-hover / elevated modern / seed `e31bfde5-3538-4cda-801e-5b4188fecfa2`
+- **Fashion Denim Archive** — luxury / editorial-hero / parallax-soft / story-led / seed `64fc0422-6c24-4eef-b142-32108744abff`
+- **Fashion Adaptive Modern** — editorial / split-showcase / floating-products / calm premium / seed `fe5dc7f2-0d84-495e-8bf6-ef2108eef510`
+- **Fashion Linen Studio** — minimal / catalog-grid / cinematic-drift / high-conversion / seed `759307b2-bef8-4b36-968f-d8c44b93bf16`
+- **Fashion Gothic Editorial** — tech / minimal-premium / grid-pulse / fashion-forward / seed `58247626-59ee-4a06-a9b8-9e48ce4c8b74`
+- **Fashion Korean Concept** — campaign / campaign-drop / soft-reveal / technical clear / seed `aad0e569-a217-4c13-8cfd-7bdc3c68dea3`
+- **Fashion Neo Runway V2** — street / lookbook-rail / stagger-rise / playful warm / seed `50df8b82-35ce-4d7b-ad5c-c8a2f1ab9e68`
+- **Fashion Motion Atelier V2** — organic / comparison-tech / headline-sweep / elevated modern / seed `3abf56bb-e6a7-4aea-8ffb-73c9d0f7f27a`
+- **Fashion Soft Luxury V2** — playful / storytelling-scroll / magnetic-hover / story-led / seed `334f24e4-ee0f-4214-8532-caf3e9209c28`
+- **Fashion Bold Lookbook V2** — catalog / mosaic-merch / parallax-soft / calm premium / seed `f715eaf6-bee8-4138-994c-2c8ee03a517d`
+- **Fashion Gallery Drop V2** — modern / luxury-sparse / floating-products / high-conversion / seed `26a8838f-578b-4b60-a431-5899202638a1`
+- **Fashion Editorial Flow V2** — luxury / editorial-hero / cinematic-drift / fashion-forward / seed `86cb920d-da82-4bc8-9150-76f0ab32d822`
+- **Fashion Minimal Couture V2** — editorial / split-showcase / grid-pulse / technical clear / seed `809da932-480e-48ee-beaa-5b5011e22f38`
+- **Fashion Street Campaign V2** — minimal / catalog-grid / soft-reveal / playful warm / seed `f6d21377-79ef-433e-b25d-fdbb95b4df08`
+- **Fashion Resort Motion V2** — tech / minimal-premium / stagger-rise / elevated modern / seed `60c4d552-752f-4c0b-aa77-13dcfaf4ff8f`
+- **Fashion Quiet Runway V2** — campaign / campaign-drop / headline-sweep / story-led / seed `f96c1fd6-ae5d-4c89-87f4-b790d6ad480a`
+- **Fashion Modern Modest V2** — street / lookbook-rail / magnetic-hover / calm premium / seed `37944986-6eb7-4870-b853-78ad1c457da3`
+- **Fashion Denim Story V2** — organic / comparison-tech / parallax-soft / high-conversion / seed `efca1057-5da3-4165-ad61-0569d086dff2`
+- **Fashion Monochrome Drop V2** — playful / storytelling-scroll / floating-products / fashion-forward / seed `a6320d2a-9fea-4b8c-9e52-001624cea34f`
+- **Fashion High Fashion Grid V2** — catalog / mosaic-merch / cinematic-drift / technical clear / seed `b77c999c-4d36-446e-b916-8a249287d1df`
+- **Fashion Atelier Commerce V2** — modern / luxury-sparse / grid-pulse / playful warm / seed `c52e137a-29a8-40c3-8730-f834f6a6dd4d`
+- **Fashion Night Editorial V2** — luxury / editorial-hero / soft-reveal / elevated modern / seed `70a00de3-8c81-4a43-8ced-ee4e9b4182e4`
+
+## Shoes
+- **Shoes Performance** — catalog / mosaic-merch / parallax-soft / playful warm / seed `40433bb2-5729-4c69-a347-de01aaeb59ff`
+- **Shoes Drop** — modern / luxury-sparse / floating-products / elevated modern / seed `bee26e5a-fa63-438e-a1e6-a6a8732c12ce`
+- **Shoes Minimal** — luxury / editorial-hero / cinematic-drift / story-led / seed `96f0f400-7c88-404d-9a01-2e882b166d4c`
+- **Shoes Catalog** — editorial / split-showcase / grid-pulse / calm premium / seed `750e2496-db6e-4c56-ad30-e8e23299c670`
+- **Shoes Editorial** — minimal / catalog-grid / soft-reveal / high-conversion / seed `c3171bec-9d59-45bd-9424-69356bed08b0`
+- **Shoes Luxury** — tech / minimal-premium / stagger-rise / fashion-forward / seed `76ab67ce-4893-42fa-a309-52f9387e93b7`
+- **Shoes Running Lab** — campaign / campaign-drop / headline-sweep / technical clear / seed `ab6545d9-ab2a-42a4-b448-761e4f6d047d`
+- **Shoes Boutique Gallery** — street / lookbook-rail / magnetic-hover / playful warm / seed `13fe956a-720a-4a0c-8b37-520641e9c899`
+- **Shoes Drop Wall** — organic / comparison-tech / parallax-soft / elevated modern / seed `60069304-2d12-41bc-9683-ef2e435fa011`
+- **Shoes Trial Studio** — playful / storytelling-scroll / floating-products / story-led / seed `148b13ed-9299-4392-ac62-544a0186af21`
+- **Shoes Atelier Editorial** — catalog / mosaic-merch / cinematic-drift / calm premium / seed `ef76bb3d-6a0e-4541-b52d-0ea7c0782d3e`
+- **Shoes Barefoot Minimal** — modern / luxury-sparse / grid-pulse / high-conversion / seed `fc4a532f-4f26-4e4d-b000-97eeb3c1511f`
+- **Shoes Court Club** — luxury / editorial-hero / soft-reveal / fashion-forward / seed `610d4cce-6fdc-4873-abe9-64c7f04448b1`
+- **Shoes Recovery Studio** — editorial / split-showcase / stagger-rise / technical clear / seed `0ff2b81a-d962-4fb8-9f5b-f18a2baaa3be`
+- **Shoes Dance Atelier** — minimal / catalog-grid / headline-sweep / playful warm / seed `50368582-b50c-46ec-b8ca-166f6f7d20fd`
+- **Shoes Trail Lab** — tech / minimal-premium / magnetic-hover / elevated modern / seed `508e33a2-2d26-4551-8d12-69d2d0e05dd3`
+- **Shoes Luxury Sneaker Vault** — campaign / campaign-drop / parallax-soft / story-led / seed `527f574c-b571-4e10-97b9-0804ff53ac93`
+- **Shoes Hiking Boot Expedition** — street / lookbook-rail / floating-products / calm premium / seed `fedb2f2b-c02e-4b5e-9991-f6e072d18efe`
+- **Shoes Orthopedic Comfort** — organic / comparison-tech / cinematic-drift / high-conversion / seed `97645391-a6cb-46bc-8a2a-db31059ad4c6`
+- **Shoes Platform Fashion** — playful / storytelling-scroll / grid-pulse / fashion-forward / seed `824f2eca-5814-4df0-9952-659f885230d7`
+- **Shoes Snow Boot Winter** — catalog / mosaic-merch / soft-reveal / technical clear / seed `6fe08e82-6f65-4a0e-b217-c768a1cc2f4b`
+- **Shoes Cycling Performance** — modern / luxury-sparse / stagger-rise / playful warm / seed `dc8ce5c6-7487-4ccd-888e-bc705ee7ca5a`
+- **Shoes Sneaker Motion V2** — luxury / editorial-hero / headline-sweep / elevated modern / seed `f1866d19-c700-45e9-8248-f25edda16ac7`
+- **Shoes Run Club V2** — editorial / split-showcase / magnetic-hover / story-led / seed `a4705dec-8915-4bf5-ba24-93c7b713dff7`
+- **Shoes Minimal Footwear V2** — minimal / catalog-grid / parallax-soft / calm premium / seed `819e8acd-63d1-4612-8a3a-11e62070555f`
+- **Shoes Luxury Vault V2** — tech / minimal-premium / floating-products / high-conversion / seed `6e966ef3-8109-4035-9205-190f89409977`
+- **Shoes Trail Motion V2** — campaign / campaign-drop / cinematic-drift / fashion-forward / seed `dbffe25a-3164-4a78-b025-cb03c0cb0050`
+- **Shoes Court Store V2** — street / lookbook-rail / grid-pulse / technical clear / seed `3cace047-7503-412d-bb62-2c04866ae332`
+- **Shoes Editorial Shoe V2** — organic / comparison-tech / soft-reveal / playful warm / seed `8bd915c4-9c96-4b85-b5db-4163e822f6dc`
+- **Shoes Performance Grid V2** — playful / storytelling-scroll / stagger-rise / elevated modern / seed `c17a8e60-1af4-419c-b712-dc1d65d2c75f`
+- **Shoes Sneaker Marquee V2** — catalog / mosaic-merch / headline-sweep / story-led / seed `af939865-c335-40c9-856c-e2fcf997ab6d`
+- **Shoes Comfort Lab V2** — modern / luxury-sparse / magnetic-hover / calm premium / seed `21a22b5e-b8b1-41a7-be83-1b54c75e5e51`
+- **Shoes Hiking Story V2** — luxury / editorial-hero / parallax-soft / high-conversion / seed `34107947-8453-4b8f-85b4-e34b896ac965`
+- **Shoes Sport Campaign V2** — editorial / split-showcase / floating-products / fashion-forward / seed `9542c26b-0cea-45a7-a66e-ebf6bfdbd3d4`
+- **Shoes Boutique Footwear V2** — minimal / catalog-grid / cinematic-drift / technical clear / seed `b8f59b99-8a44-442f-9290-18bb3bb828a7`
+- **Shoes Shoe Comparison V2** — tech / minimal-premium / grid-pulse / playful warm / seed `e0d36c25-d53c-436a-8449-d72ab29b3082`
+- **Shoes Drop Gallery V2** — campaign / campaign-drop / soft-reveal / elevated modern / seed `367fa1bc-9c11-47f6-9b37-4495fdcfdd78`
+- **Shoes Motion Sneakers V2** — street / lookbook-rail / stagger-rise / story-led / seed `4897f67a-45b6-4dc0-bd89-547f06aa44c8`
+- **Shoes Technical Footwear V2** — organic / comparison-tech / headline-sweep / calm premium / seed `15953d64-d2f3-4737-b3b9-8c3bf176aa98`
+- **Shoes Premium Runner V2** — playful / storytelling-scroll / magnetic-hover / high-conversion / seed `603c627b-38d0-4de0-94c0-dc6805caeb30`
+
+## Accessories
+- **Accessories Luxury** — luxury / editorial-hero / headline-sweep / fashion-forward / seed `c2451104-c53e-42e7-92c7-44d354ed7877`
+- **Accessories Story** — editorial / split-showcase / magnetic-hover / technical clear / seed `7462b365-eadb-42fe-aa5c-b43f1fbd6f4e`
+- **Accessories Magazine** — minimal / catalog-grid / parallax-soft / playful warm / seed `c33e3260-9179-4b81-812e-c86fad5eace0`
+- **Accessories Retail** — tech / minimal-premium / floating-products / elevated modern / seed `f08ebbb6-ac9c-4526-9879-6288d895ce32`
+- **Accessories Night** — campaign / campaign-drop / cinematic-drift / story-led / seed `890f068a-018c-4d06-b8a2-05cca2e99e43`
+- **Accessories Minimal** — street / lookbook-rail / grid-pulse / calm premium / seed `5fed3ec2-89c4-4117-af3b-693edc0ea930`
+- **Accessories Gift Atelier** — organic / comparison-tech / soft-reveal / high-conversion / seed `12572d86-419d-4dc2-9ae4-2615f3baa38e`
+- **Accessories Precision** — playful / storytelling-scroll / stagger-rise / fashion-forward / seed `39405480-c117-442a-94c5-dfd1fa941841`
+- **Accessories Trend Drop** — catalog / mosaic-merch / headline-sweep / technical clear / seed `6cea15b9-4985-40d6-8906-8513a816896f`
+- **Accessories Jewelry Journal** — modern / luxury-sparse / magnetic-hover / playful warm / seed `2da8444c-d917-40ec-9fe3-f70181611835`
+- **Accessories Utility Store** — luxury / editorial-hero / parallax-soft / elevated modern / seed `edc707fc-9d01-4393-8980-e75d1c20323c`
+- **Accessories Travel Club** — editorial / split-showcase / floating-products / story-led / seed `869787c5-ae83-4aa1-b046-84f5013495f1`
+- **Accessories Sunglass Gallery** — minimal / catalog-grid / cinematic-drift / calm premium / seed `6cee396e-3b46-4d57-9e21-8e124e4d4996`
+- **Accessories Laptop Carry** — tech / minimal-premium / grid-pulse / high-conversion / seed `c82cb028-15ee-4d69-ad04-3c6b889ca6c3`
+- **Accessories Piercing Lab** — campaign / campaign-drop / soft-reveal / fashion-forward / seed `5cde99d0-27bf-4e63-aef0-9beebab81b2c`
+- **Accessories Travel Organizer** — street / lookbook-rail / stagger-rise / technical clear / seed `c81c4687-76f8-4228-9df3-e9c8f355ca52`
+- **Accessories Handbag Maison** — organic / comparison-tech / headline-sweep / playful warm / seed `995d1381-e8ec-444e-bd68-3c57aa7a16ca`
+- **Accessories Wallet Leather** — playful / storytelling-scroll / magnetic-hover / elevated modern / seed `c699f047-158f-4b3f-b78a-aa4fc6415db0`
+- **Accessories Smart Band Tech** — catalog / mosaic-merch / parallax-soft / story-led / seed `cfa44559-f827-467a-8f6d-4557d4373550`
+- **Accessories Camera Bag Pro** — modern / luxury-sparse / floating-products / calm premium / seed `58cee8a1-f8b6-4c7f-9bec-36e08fdb96be`
+- **Accessories Scarf Editorial** — luxury / editorial-hero / cinematic-drift / high-conversion / seed `047c86b3-d13a-4ea7-aa88-5bd6ed2832aa`
+- **Accessories Pen Atelier** — editorial / split-showcase / grid-pulse / fashion-forward / seed `3bdaeff4-ff9d-4cff-b0ab-3e026dd2213c`
+- **Accessories Watch Gallery V2** — minimal / catalog-grid / soft-reveal / technical clear / seed `895c3187-699c-4725-947a-9d0ab241b7e0`
+- **Accessories Jewelry Motion V2** — tech / minimal-premium / stagger-rise / playful warm / seed `31f3c7c5-9493-43c0-a0e3-e7a3cd5ca298`
+- **Accessories Eyewear Editorial V2** — campaign / campaign-drop / headline-sweep / elevated modern / seed `de86dcae-ede0-4dba-908b-132c88b8b641`
+- **Accessories Bag Atelier V2** — street / lookbook-rail / magnetic-hover / story-led / seed `269b4d0b-07dd-412d-b19c-5ab5375fa668`
+- **Accessories Travel Store V2** — organic / comparison-tech / parallax-soft / calm premium / seed `ae212187-6e71-48fc-8527-07b0a256198b`
+- **Accessories Luxury Carry V2** — playful / storytelling-scroll / floating-products / high-conversion / seed `e28b0509-dac3-4343-8ed7-44a39fdbbfa4`
+- **Accessories Accessory Marquee V2** — catalog / mosaic-merch / cinematic-drift / fashion-forward / seed `26195f8b-46d9-4b56-9192-70b7c9ab419d`
+- **Accessories Minimal Jewels V2** — modern / luxury-sparse / grid-pulse / technical clear / seed `16213233-8206-4eff-b736-a1dde0ec7b17`
+- **Accessories Watch Launch V2** — luxury / editorial-hero / soft-reveal / playful warm / seed `4ced2b96-278b-444e-a8b6-fc1d4bb7df6e`
+- **Accessories Optical Story V2** — editorial / split-showcase / stagger-rise / elevated modern / seed `0bd345b0-b267-44ed-95f4-7dd19f755b2e`
+- **Accessories Leather Gallery V2** — minimal / catalog-grid / headline-sweep / story-led / seed `d42fe79b-e72e-45d9-a2d3-dd2203b508e4`
+- **Accessories Gift Commerce V2** — tech / minimal-premium / magnetic-hover / calm premium / seed `7c63f6dd-3fa4-421c-950b-85a2c87d2c36`
+- **Accessories Premium Accessories V2** — campaign / campaign-drop / parallax-soft / high-conversion / seed `043adde1-8db1-49b9-b612-9470f55b3b8c`
+- **Accessories Dark Jewelry V2** — street / lookbook-rail / floating-products / fashion-forward / seed `8da5c12d-7479-435a-9b47-825bca58aaf4`
+- **Accessories Carry Bento V2** — organic / comparison-tech / cinematic-drift / technical clear / seed `3f5b2d86-4918-47f4-bddd-7aa3f091c904`
+- **Accessories Designer Eyewear V2** — playful / storytelling-scroll / grid-pulse / playful warm / seed `9c44ec9b-e347-484b-a538-d15d20c9a484`
+- **Accessories Wallet Studio V2** — catalog / mosaic-merch / soft-reveal / elevated modern / seed `bfce5411-20ca-4edf-b4f0-df9f5dca6056`
+- **Accessories Travel Motion V2** — modern / luxury-sparse / stagger-rise / story-led / seed `2bc6bd5d-b531-48f8-93cc-0dc92a70c61d`
+
+## Home
+- **Home Scandi** — minimal / catalog-grid / soft-reveal / calm premium / seed `5fe853e4-b5ca-4ca0-800c-0a499d603db2`
+- **Home Editorial** — tech / minimal-premium / stagger-rise / high-conversion / seed `f310e52e-153f-4cd3-a1a1-511076de6b00`
+- **Home Catalog** — campaign / campaign-drop / headline-sweep / fashion-forward / seed `b412ae17-ba67-4392-95a9-8253c9663279`
+- **Home Story** — street / lookbook-rail / magnetic-hover / technical clear / seed `14b4ae50-1125-4445-8e07-8817162e5d1d`
+- **Home Premium** — organic / comparison-tech / parallax-soft / playful warm / seed `4d055783-bbf5-4889-9b1d-68dd4956f72d`
+- **Home Shop** — playful / storytelling-scroll / floating-products / elevated modern / seed `19b5cf7b-c0e9-4bc7-878b-276dbc624de2`
+- **Home Showroom** — catalog / mosaic-merch / cinematic-drift / story-led / seed `611b8a58-b63e-4348-b330-38e86ca6aa05`
+- **Home Organization Store** — modern / luxury-sparse / grid-pulse / calm premium / seed `eb3e2282-bbbe-4483-a996-9ebf2c28f8bb`
+- **Home Earthy Living** — luxury / editorial-hero / soft-reveal / high-conversion / seed `bed822c5-6f99-409a-9ccd-0b283e98f084`
+- **Home Bespoke Catalog** — editorial / split-showcase / stagger-rise / fashion-forward / seed `5a82e934-2be2-4a0b-b2d8-e3f2be9914b1`
+- **Home Journal Loft** — minimal / catalog-grid / headline-sweep / technical clear / seed `5e49cf96-4010-4215-8460-2e4e589f2017`
+- **Home Smart Lighting Lab** — tech / minimal-premium / magnetic-hover / playful warm / seed `5fb87e5c-5444-4b85-89e9-0168e3a82c81`
+- **Home Cozy Rituals** — campaign / campaign-drop / parallax-soft / elevated modern / seed `2ba89f96-2349-438d-8492-1b4be7098c36`
+- **Home Aroma Studio** — street / lookbook-rail / floating-products / story-led / seed `c232b7ce-e701-4e63-94ea-1b66a7a4562b`
+- **Home Desk Gallery** — organic / comparison-tech / cinematic-drift / calm premium / seed `66ea9c88-efb1-4637-9dd5-dccfd1563382`
+- **Home Smart Lighting Launch** — playful / storytelling-scroll / grid-pulse / high-conversion / seed `54499771-aabe-4965-afc3-6db36d4f759c`
+- **Home Living Room Showroom** — catalog / mosaic-merch / soft-reveal / fashion-forward / seed `11a2c75c-1f96-4b61-9c4b-88076462e56b`
+- **Home Bedroom Sanctuary** — modern / luxury-sparse / stagger-rise / technical clear / seed `1b0d9e09-86a7-451b-b455-560a49b71cac`
+- **Home Outdoor Furniture** — luxury / editorial-hero / headline-sweep / playful warm / seed `1c1de439-9cd9-478e-bfad-31cfb45ff8b2`
+- **Home Lighting Gallery** — editorial / split-showcase / magnetic-hover / elevated modern / seed `b7c4353c-40dc-4662-a43a-b1e75549eda1`
+- **Home Rug Atelier** — minimal / catalog-grid / parallax-soft / story-led / seed `3632b281-d8ba-464a-8ee3-8d04c331463d`
+- **Home Smart Furniture** — tech / minimal-premium / floating-products / calm premium / seed `11d38dc8-791c-414f-be8b-1a11eaf4f768`
+- **Home Interior Journal V2** — campaign / campaign-drop / cinematic-drift / high-conversion / seed `5074ea74-c7f9-4d71-81b5-4e0d24b25cc4`
+- **Home Sofa Gallery V2** — street / lookbook-rail / grid-pulse / fashion-forward / seed `51fbfaad-5751-49ee-9a90-e85d6985c21d`
+- **Home Bedroom Calm V2** — organic / comparison-tech / soft-reveal / technical clear / seed `faa0384d-7ea6-48d7-89c9-4d417f051917`
+- **Home Kitchen Modern V2** — playful / storytelling-scroll / stagger-rise / playful warm / seed `a68db306-a834-49df-bad9-747862e453f6`
+- **Home Furniture Motion V2** — catalog / mosaic-merch / headline-sweep / elevated modern / seed `46c44c78-3ff3-459c-aac3-260adda6992c`
+- **Home Scandi Living V2** — modern / luxury-sparse / magnetic-hover / story-led / seed `2d5cb110-a5d6-41d5-9962-3e0d594a4fe8`
+- **Home Design Studio V2** — luxury / editorial-hero / parallax-soft / calm premium / seed `4934327b-c13b-4f35-923f-71f7d707c94f`
+- **Home Home Marquee V2** — editorial / split-showcase / floating-products / high-conversion / seed `4dad35f1-7779-4970-8b8e-b5229d7b87dd`
+- **Home Quiet Interior V2** — minimal / catalog-grid / cinematic-drift / fashion-forward / seed `3ec18404-6b63-4650-a3eb-e92b7aec1819`
+- **Home Room Story V2** — tech / minimal-premium / grid-pulse / technical clear / seed `abac522c-1194-4c1d-8bb3-fe5c7ad6c4ce`
+- **Home Modern Furniture V2** — campaign / campaign-drop / soft-reveal / playful warm / seed `8a9b1211-7449-478a-8254-b7f8763e1646`
+- **Home Bed Editorial V2** — street / lookbook-rail / stagger-rise / elevated modern / seed `d74d9e67-da61-41ef-b7b6-17a3cff3c171`
+- **Home Sofa Showcase V2** — organic / comparison-tech / headline-sweep / story-led / seed `a5125125-3ea2-4e0a-862a-c9511b4ad267`
+- **Home Decor Gallery V2** — playful / storytelling-scroll / magnetic-hover / calm premium / seed `214286cc-34c6-443b-bcda-513c5f150fb2`
+- **Home Kitchen Bento V2** — catalog / mosaic-merch / parallax-soft / high-conversion / seed `482750c6-347e-497f-8906-b45fee1aa66a`
+- **Home Home Commerce V2** — modern / luxury-sparse / floating-products / fashion-forward / seed `214db81b-3351-41a1-853b-1922ed2f986e`
+- **Home Minimal Room V2** — luxury / editorial-hero / cinematic-drift / technical clear / seed `629be459-6131-40dd-9488-05d3612c4edf`
+- **Home Lounge Campaign V2** — editorial / split-showcase / grid-pulse / playful warm / seed `a9ef519c-1b9b-4298-aaac-ebc847e27d05`
+
+## Beauty
+- **Beauty Luxury** — campaign / campaign-drop / cinematic-drift / elevated modern / seed `c5918a9e-fe8e-49f3-aa64-9b0d1a98c1a4`
+- **Beauty Clinical** — street / lookbook-rail / grid-pulse / story-led / seed `3fb3fc7d-ea12-4cb8-b215-fd89d8ff8674`
+- **Beauty Editorial** — organic / comparison-tech / soft-reveal / calm premium / seed `d0cd17b5-d8bb-48da-b475-ae92de5e0308`
+- **Beauty Launch** — playful / storytelling-scroll / stagger-rise / high-conversion / seed `0c2025e9-8877-4fa1-b0c7-037643dc300c`
+- **Beauty Playful** — catalog / mosaic-merch / headline-sweep / fashion-forward / seed `4dcd24d1-59dc-4ce0-bf0e-434aa125582c`
+- **Beauty Noir** — modern / luxury-sparse / magnetic-hover / technical clear / seed `157c5cdf-55e8-476b-b5a1-8bbea2530f7e`
+- **Beauty Routine Lab** — luxury / editorial-hero / parallax-soft / playful warm / seed `6c545739-6f76-4ac6-9d20-8d97f09298f2`
+- **Beauty Spa Journal** — editorial / split-showcase / floating-products / elevated modern / seed `a7700a21-0d43-4fe8-a53f-98601c6182a8`
+- **Beauty Brand Capsule** — minimal / catalog-grid / cinematic-drift / story-led / seed `686e7834-78e1-4eff-aa01-97701c9da633`
+- **Beauty Members Routine** — tech / minimal-premium / grid-pulse / calm premium / seed `4ea5861c-7d74-4bc8-87b8-073d535d9bda`
+- **Beauty Lab Compare** — campaign / campaign-drop / soft-reveal / high-conversion / seed `aa87e5b6-e93d-4175-8972-23ce74d7c357`
+- **Beauty Scalp Studio** — street / lookbook-rail / stagger-rise / fashion-forward / seed `7d356cae-464d-4efb-bf3f-4b826b4d78a6`
+- **Beauty Lip Bar** — organic / comparison-tech / headline-sweep / technical clear / seed `445e2678-a2f7-404d-960d-88d2667627c2`
+- **Beauty Brush Studio** — playful / storytelling-scroll / magnetic-hover / playful warm / seed `8d269c0e-6803-4762-badd-9969919293b3`
+- **Beauty Derm Membership** — catalog / mosaic-merch / parallax-soft / elevated modern / seed `eb574068-5532-4213-901b-6d121cbca488`
+- **Beauty Clean Apothecary** — modern / luxury-sparse / floating-products / story-led / seed `338a049d-d8e8-46f4-944d-2b09665a103c`
+- **Beauty Makeup Studio** — luxury / editorial-hero / cinematic-drift / calm premium / seed `f72f63f1-7b0b-44d8-8561-135c7b7e2d8a`
+- **Beauty Kbeauty Lab** — editorial / split-showcase / grid-pulse / high-conversion / seed `2afb2345-5ae0-4442-bff8-513873a2a82d`
+- **Beauty Haircare Routine** — minimal / catalog-grid / soft-reveal / fashion-forward / seed `d8e366cb-fc2a-45f5-a0bd-a8be54f6fb69`
+- **Beauty Nail Bar** — tech / minimal-premium / stagger-rise / technical clear / seed `e16b1c7f-804d-40c6-bccb-fb4624d4d6bf`
+- **Beauty Bath Body** — campaign / campaign-drop / headline-sweep / playful warm / seed `6a433698-d9ea-4be7-831e-4304e12d094c`
+- **Beauty Sunscreen Clinic** — street / lookbook-rail / magnetic-hover / elevated modern / seed `35874e15-88dc-426d-bb7a-3c159a7a6e4a`
+- **Beauty Skincare Editorial V2** — organic / comparison-tech / parallax-soft / story-led / seed `1a8f7f28-2594-4eda-9692-b80fb05cbaa0`
+- **Beauty Beauty Motion V2** — playful / storytelling-scroll / floating-products / calm premium / seed `bf27b13d-c656-4c81-b698-812490642f2e`
+- **Beauty Clean Routine V2** — catalog / mosaic-merch / cinematic-drift / high-conversion / seed `637c32d1-d209-441c-8f03-f7ac36920dc5`
+- **Beauty Perfume Luxury V2** — modern / luxury-sparse / grid-pulse / fashion-forward / seed `972d492c-b9f4-4dad-a4ed-cdc9e10c1b68`
+- **Beauty Cosmetic Gallery V2** — luxury / editorial-hero / soft-reveal / technical clear / seed `645a3509-341f-45dc-bf02-905af34c9e2b`
+- **Beauty Wellness Story V2** — editorial / split-showcase / stagger-rise / playful warm / seed `d68f3faf-4e56-48ec-a8dd-baa5f4fbb483`
+- **Beauty Beauty Marquee V2** — minimal / catalog-grid / headline-sweep / elevated modern / seed `8155a25c-1c54-4cee-a8cd-9174099576f0`
+- **Beauty Minimal Skincare V2** — tech / minimal-premium / magnetic-hover / story-led / seed `2d9906fa-0752-43c4-bf96-887b4cd40d6d`
+- **Beauty Premium Serum V2** — campaign / campaign-drop / parallax-soft / calm premium / seed `98de418f-844a-400e-83cd-b2c67630cdf7`
+- **Beauty Routine Commerce V2** — street / lookbook-rail / floating-products / high-conversion / seed `7b166803-8ada-4891-a57f-d1b3950439ee`
+- **Beauty Fragrance Campaign V2** — organic / comparison-tech / cinematic-drift / fashion-forward / seed `4a7cc998-88f1-4024-97d4-86352573ebe5`
+- **Beauty Spa Editorial V2** — playful / storytelling-scroll / grid-pulse / technical clear / seed `b68c536f-174d-44c6-b897-b0d0d555c5ca`
+- **Beauty Beauty Bento V2** — catalog / mosaic-merch / soft-reveal / playful warm / seed `2e61016d-56ab-4eb3-ab3d-6cdec6902723`
+- **Beauty Clinical Modern V2** — modern / luxury-sparse / stagger-rise / elevated modern / seed `4309a632-a5ce-4bb7-9f95-e5dc165037c7`
+- **Beauty Haircare Story V2** — luxury / editorial-hero / headline-sweep / story-led / seed `503b603b-594b-45f4-a018-e4935cdb6686`
+- **Beauty Cosmetic Launch V2** — editorial / split-showcase / magnetic-hover / calm premium / seed `01afdebc-6ca9-4054-a0b9-65815a4fd704`
+- **Beauty Soft Beauty V2** — minimal / catalog-grid / parallax-soft / high-conversion / seed `baef880a-ce58-40d1-9c2c-cfeecca4c174`
+- **Beauty Luxury Routine V2** — tech / minimal-premium / floating-products / fashion-forward / seed `17049a4e-371b-4eb9-abfd-b17742ed89c3`
+
+## Food
+- **Food Bold** — organic / comparison-tech / parallax-soft / technical clear / seed `5c9ab62a-1b26-437a-b51e-40fa5ff3248e`
+- **Food Artisan** — playful / storytelling-scroll / floating-products / playful warm / seed `e9c99e23-b4ac-4f93-9731-3ab04c93e2c0`
+- **Food Retail** — catalog / mosaic-merch / cinematic-drift / elevated modern / seed `6565d70e-6eaf-4cf7-8f6f-ffe64b67fc6f`
+- **Food Minimal** — modern / luxury-sparse / grid-pulse / story-led / seed `c504957f-eda9-4f53-aadc-bf6990880546`
+- **Food Cafe** — luxury / editorial-hero / soft-reveal / calm premium / seed `28fadcae-467a-4373-bd77-f513f66e8b94`
+- **Food Premium** — editorial / split-showcase / stagger-rise / high-conversion / seed `9c9918bf-a6bc-48a1-ab54-42ec754326bb`
+- **Food Market Grid** — minimal / catalog-grid / headline-sweep / fashion-forward / seed `2b4883d5-ffe1-4a2c-ad29-cc2f1ddb1bba`
+- **Food Subscription Box** — tech / minimal-premium / magnetic-hover / technical clear / seed `47a5b811-fc18-4e8f-a6db-546c6ba4fd67`
+- **Food Chef Story** — campaign / campaign-drop / parallax-soft / playful warm / seed `37fd4d43-ddef-478d-8236-23339217020b`
+- **Food Market Membership** — street / lookbook-rail / floating-products / elevated modern / seed `93b601db-fbcd-40da-8fdb-c664c6287d7e`
+- **Food Minimal Pantry** — organic / comparison-tech / cinematic-drift / story-led / seed `3b699519-542f-462e-b814-ad0d7ebfd7ff`
+- **Food Matcha Club** — playful / storytelling-scroll / grid-pulse / calm premium / seed `a7e5d8db-76f6-4c3a-95a8-73609d99dc21`
+- **Food Hot Sauce Drop** — catalog / mosaic-merch / soft-reveal / high-conversion / seed `09c03fcb-6c01-4fb7-bbd8-107746003ccf`
+- **Food Protein Market** — modern / luxury-sparse / stagger-rise / fashion-forward / seed `d186f4c7-1365-4d1c-86f1-2ddf84e7cf60`
+- **Food Zero Sugar Lab** — luxury / editorial-hero / headline-sweep / technical clear / seed `affe2c43-d609-4109-b692-5a7ecfabed61`
+- **Food Cafe Journal** — editorial / split-showcase / magnetic-hover / playful warm / seed `d3152e58-a618-4f3d-9abc-d3261c7664db`
+- **Food Salmon Market** — minimal / catalog-grid / parallax-soft / elevated modern / seed `b5dc33cd-ddae-4e68-bb06-4d2ea550b37b`
+- **Food Cheese Cellar** — tech / minimal-premium / floating-products / story-led / seed `314b3aeb-f1c0-47fb-a4ba-5aaf5d7eaca0`
+- **Food Chocolate Atelier** — campaign / campaign-drop / cinematic-drift / calm premium / seed `a3b91055-23c0-4ebf-916d-595a2c5a04a9`
+- **Food Meal Kit** — street / lookbook-rail / grid-pulse / high-conversion / seed `748017c3-4526-4791-8056-9a7b1039cf72`
+- **Food Organic Grocery** — organic / comparison-tech / soft-reveal / fashion-forward / seed `c626d419-bb03-4549-8f81-b5aad68734d6`
+- **Food Spice Market** — playful / storytelling-scroll / stagger-rise / technical clear / seed `41736ad0-a5b7-4492-9b71-2c2748a664dc`
+- **Food Gourmet Market V2** — catalog / mosaic-merch / headline-sweep / playful warm / seed `903c092b-7069-4900-aec9-8343aa5742b7`
+- **Food Seafood Fresh V2** — modern / luxury-sparse / magnetic-hover / elevated modern / seed `0ef82bdd-f284-4608-bf60-aa27f3e3f175`
+- **Food Coffee Editorial V2** — luxury / editorial-hero / parallax-soft / story-led / seed `87013502-21e8-4d8d-b36b-8b13d35f02d2`
+- **Food Bakery Motion V2** — editorial / split-showcase / floating-products / calm premium / seed `e295eb12-328a-418b-8609-299c36217384`
+- **Food Pantry Store V2** — minimal / catalog-grid / cinematic-drift / high-conversion / seed `e907f78d-9b7e-483b-b784-2760465cd582`
+- **Food Food Marquee V2** — tech / minimal-premium / grid-pulse / fashion-forward / seed `decead47-42c2-4ff5-9d80-a3ba42287f36`
+- **Food Market Bento V2** — campaign / campaign-drop / soft-reveal / technical clear / seed `8c676a27-0259-4186-8523-6d53333ee70a`
+- **Food Chef Story V2** — street / lookbook-rail / stagger-rise / playful warm / seed `a4950e35-5534-4618-83a5-be5bcbd5a3dd`
+- **Food Fresh Commerce V2** — organic / comparison-tech / headline-sweep / elevated modern / seed `c71f18ec-0ddc-43ae-9282-9163b7d546ea`
+- **Food Grocery Modern V2** — playful / storytelling-scroll / magnetic-hover / story-led / seed `b6a637a3-f4c6-46b8-82ec-e2a62f702ff7`
+- **Food Dessert Gallery V2** — catalog / mosaic-merch / parallax-soft / calm premium / seed `6be4225c-f407-4c4f-a70f-76715754137b`
+- **Food Seafood Showcase V2** — modern / luxury-sparse / floating-products / high-conversion / seed `c372a38b-5c89-4bb5-ab67-3d360ac63a22`
+- **Food Coffee Club V2** — luxury / editorial-hero / cinematic-drift / fashion-forward / seed `1b4de699-885d-4af0-a499-cea0de56a52d`
+- **Food Artisan Food V2** — editorial / split-showcase / grid-pulse / technical clear / seed `d4540cbd-f8d3-4d33-9995-27b7bd97e446`
+- **Food Produce Market V2** — minimal / catalog-grid / soft-reveal / playful warm / seed `d8148c61-36fc-41a6-982a-92aa54c14a70`
+- **Food Meal Bundle V2** — tech / minimal-premium / stagger-rise / elevated modern / seed `20431bd2-22e4-4a99-af3b-1fdad862db79`
+- **Food Food Campaign V2** — campaign / campaign-drop / headline-sweep / story-led / seed `f95caee6-5b1b-4441-bbd8-d46babd587f2`
+- **Food Premium Pantry V2** — street / lookbook-rail / magnetic-hover / calm premium / seed `f8a6e253-cfc2-4bca-b80a-6e518d26db98`
+
+## Outdoor
+- **Outdoor Technical** — catalog / mosaic-merch / headline-sweep / high-conversion / seed `23b904c2-bb8b-4cba-af2d-94603afe8043`
+- **Outdoor Campaign** — modern / luxury-sparse / magnetic-hover / fashion-forward / seed `fcc7c0f2-beee-4301-b6a9-7b901aafe742`
+- **Outdoor Catalog** — luxury / editorial-hero / parallax-soft / technical clear / seed `118e23cb-6b17-4293-b65f-04bed7d393f3`
+- **Outdoor Story** — editorial / split-showcase / floating-products / playful warm / seed `22e2e2e5-b45c-418b-a528-e7b3493ea20c`
+- **Outdoor Minimal** — minimal / catalog-grid / cinematic-drift / elevated modern / seed `0673841b-06a7-4757-97b9-290adda00fe7`
+- **Outdoor Drop** — tech / minimal-premium / grid-pulse / story-led / seed `8de173c1-8338-4f55-9782-d6f80caa13a5`
+- **Outdoor Expedition** — campaign / campaign-drop / soft-reveal / calm premium / seed `065d9a84-9977-4c9d-8ded-90d829faa30b`
+- **Outdoor Gear Wall** — street / lookbook-rail / stagger-rise / high-conversion / seed `d7193a83-a5f0-4668-a511-7e964915f42d`
+- **Outdoor Endurance Lab** — organic / comparison-tech / headline-sweep / fashion-forward / seed `eb19da64-b8a4-44c1-ba9f-3f6a7edb875c`
+- **Outdoor Ridge Journal** — playful / storytelling-scroll / magnetic-hover / technical clear / seed `fc468548-1f10-4d1b-8418-6849f961757f`
+- **Outdoor Basecamp Shop** — catalog / mosaic-merch / parallax-soft / playful warm / seed `ba328161-72b7-46cd-abe9-1e4c00133959`
+- **Outdoor Overland Journal** — modern / luxury-sparse / floating-products / elevated modern / seed `cc187d7c-8e0c-457e-936f-413dcd310fba`
+- **Outdoor Pickleball Club** — luxury / editorial-hero / cinematic-drift / story-led / seed `3c7dce22-d6b3-4629-92a6-618fdc671bde`
+- **Outdoor Padel Performance** — editorial / split-showcase / grid-pulse / calm premium / seed `6586080d-7660-42b9-9ef4-279d4b2310b3`
+- **Outdoor Expedition Film** — minimal / catalog-grid / soft-reveal / high-conversion / seed `ce12fbbc-eb1d-449c-8aff-baaa36ac8ab7`
+- **Outdoor Golf Proshop** — tech / minimal-premium / stagger-rise / fashion-forward / seed `652a4a80-6e84-439c-bcdc-221d3ab65c93`
+- **Outdoor Baseball Club** — campaign / campaign-drop / headline-sweep / technical clear / seed `5c0cb56c-6564-419b-8327-bfe48ff5f973`
+- **Outdoor Swim Performance** — street / lookbook-rail / magnetic-hover / playful warm / seed `7eb127d5-c505-4147-aa65-773238efeced`
+- **Outdoor Dive Shop** — organic / comparison-tech / parallax-soft / elevated modern / seed `f3a98886-5662-4719-b75a-79f8709f4082`
+- **Outdoor Tent Expedition** — playful / storytelling-scroll / floating-products / story-led / seed `eb3a0640-a6d4-4ed6-9b71-4a0ea283dc95`
+- **Outdoor Grill Camp** — catalog / mosaic-merch / cinematic-drift / calm premium / seed `e1760618-720d-4bfd-9895-a45cf33d7f05`
+- **Outdoor Table Tennis** — modern / luxury-sparse / grid-pulse / high-conversion / seed `86fcc186-b598-498d-970c-67542203e76a`
+- **Outdoor Adventure Motion V2** — luxury / editorial-hero / soft-reveal / fashion-forward / seed `206d2a9a-c705-44cf-b2a9-64dd8d7e16f1`
+- **Outdoor Trail Lab V2** — editorial / split-showcase / stagger-rise / technical clear / seed `9bc31ad9-8dee-4247-bd3a-7c7579426149`
+- **Outdoor Camp Story V2** — minimal / catalog-grid / headline-sweep / playful warm / seed `eb27582b-7e76-469f-9004-7ed1e9fc9f20`
+- **Outdoor Outdoor Marquee V2** — tech / minimal-premium / magnetic-hover / elevated modern / seed `73b368fe-9364-4171-a34c-e461d2e283aa`
+- **Outdoor Technical Gear V2** — campaign / campaign-drop / parallax-soft / story-led / seed `a30db62b-bb44-4e5f-ad41-251bf323ac9d`
+- **Outdoor Expedition Gallery V2** — street / lookbook-rail / floating-products / calm premium / seed `d99746b0-0520-4513-8e62-cff653b07370`
+- **Outdoor Sport Commerce V2** — organic / comparison-tech / cinematic-drift / high-conversion / seed `d92d91c5-9a6f-4daf-a845-f6ba0e4b2ddb`
+- **Outdoor Mountain Editorial V2** — playful / storytelling-scroll / grid-pulse / fashion-forward / seed `dde79dd0-5de2-497d-ae62-6fc70bb2e1b7`
+- **Outdoor Basecamp Modern V2** — catalog / mosaic-merch / soft-reveal / technical clear / seed `6a4c9636-a37a-4709-86e1-e5211a1d538a`
+- **Outdoor Climb Showcase V2** — modern / luxury-sparse / stagger-rise / playful warm / seed `deb1a54d-b04a-415c-8b4f-867d48f7a16c`
+- **Outdoor Hike Bento V2** — luxury / editorial-hero / headline-sweep / elevated modern / seed `8aedaa00-1b62-4d4c-b4e4-9f1da2e0e78d`
+- **Outdoor Water Sport V2** — editorial / split-showcase / magnetic-hover / story-led / seed `c553191e-9acc-4884-b148-ff98d0801cfa`
+- **Outdoor Outdoor Wall V2** — minimal / catalog-grid / parallax-soft / calm premium / seed `fc369815-ee65-48a6-aa54-5bb11acb5033`
+- **Outdoor Performance Camp V2** — tech / minimal-premium / floating-products / high-conversion / seed `785c8178-ec93-4265-a60e-2135d0f06841`
+- **Outdoor Travel Gear V2** — campaign / campaign-drop / cinematic-drift / fashion-forward / seed `37d4cbcb-e09b-4e56-9ebf-8a72196ef93e`
+- **Outdoor Ridge Motion V2** — street / lookbook-rail / grid-pulse / technical clear / seed `8a762f6f-013d-44e8-b608-19bbb66709b8`
+- **Outdoor Camping Market V2** — organic / comparison-tech / soft-reveal / playful warm / seed `3572291d-65ee-4e2f-bd2f-bde758fbe4bd`
+- **Outdoor Adventure Launch V2** — playful / storytelling-scroll / stagger-rise / elevated modern / seed `b8eee54e-1bc0-445c-b38a-cc778d0a252f`
+
+## Kids
+- **Kids Playful** — modern / luxury-sparse / grid-pulse / elevated modern / seed `4422014c-7ba7-4727-98d2-b9d348d6efb3`
+- **Kids Clean** — luxury / editorial-hero / soft-reveal / story-led / seed `6ec50d5a-6d20-4160-b51f-57cdb1352237`
+- **Kids Retail** — editorial / split-showcase / stagger-rise / calm premium / seed `af19bf34-4152-4efa-97d8-33f2d5093f56`
+- **Kids Story** — minimal / catalog-grid / headline-sweep / high-conversion / seed `66396bb3-9c4c-4b2e-adb8-20596860c464`
+- **Kids Bold** — tech / minimal-premium / magnetic-hover / fashion-forward / seed `eb131e64-4fae-4604-a786-33fb90c5425b`
+- **Kids Editorial** — campaign / campaign-drop / parallax-soft / technical clear / seed `e35c71b9-10e5-4e56-9208-3f38401e164f`
+- **Kids Learning Hub** — street / lookbook-rail / floating-products / playful warm / seed `80680160-77e2-4385-9326-9a8cc1f9deea`
+- **Kids Toy Carnival** — organic / comparison-tech / cinematic-drift / elevated modern / seed `3a5edda8-a23f-4b8d-9e40-583a79ad0531`
+- **Kids Baby Journal** — playful / storytelling-scroll / grid-pulse / story-led / seed `0a403d9e-9a66-46ab-8835-a161bd93091c`
+- **Kids Playroom Boutique** — catalog / mosaic-merch / soft-reveal / calm premium / seed `b1764879-3003-4990-a2bf-db6077409dfa`
+- **Kids School Shop** — modern / luxury-sparse / stagger-rise / high-conversion / seed `84861810-8837-4460-9d17-46fb56999ec6`
+- **Kids Montessori Studio** — luxury / editorial-hero / headline-sweep / fashion-forward / seed `38a5bb31-5322-413f-9f3a-243fd7cd0e94`
+- **Kids Sports Squad** — editorial / split-showcase / magnetic-hover / technical clear / seed `b966004e-f49b-427e-afe9-3de92c5db85f`
+- **Kids Baby Care** — minimal / catalog-grid / parallax-soft / playful warm / seed `73846aa2-724c-4025-9ce7-cb7875d459ed`
+- **Kids Montessori Journal** — tech / minimal-premium / floating-products / elevated modern / seed `ab8ab081-631d-4942-9d75-cc5502e64a11`
+- **Kids Nursery Tech** — campaign / campaign-drop / cinematic-drift / story-led / seed `911cf002-55c6-4422-aff4-79ba8b302c5f`
+- **Kids Swim Club** — street / lookbook-rail / grid-pulse / calm premium / seed `1258d36d-b54e-4e7e-b7e2-c55d53d444c8`
+- **Kids Party Wear** — organic / comparison-tech / soft-reveal / high-conversion / seed `6187f9f6-ed2b-40a4-9578-a1efc0b88234`
+- **Kids Baby Bedding** — playful / storytelling-scroll / stagger-rise / fashion-forward / seed `216bd4c1-f8cc-45f8-a269-80058a79698b`
+- **Kids Ride On Toys** — catalog / mosaic-merch / headline-sweep / technical clear / seed `2d1fb44a-f23a-4679-a2b7-d6dbdc5b0a3c`
+- **Kids Art Supplies** — modern / luxury-sparse / magnetic-hover / playful warm / seed `6fc13263-347b-43d8-b996-3cafd69cd371`
+- **Kids Backpack School** — luxury / editorial-hero / parallax-soft / elevated modern / seed `226d9c97-9d6c-45f6-85c6-44561edcd347`
+- **Kids Play Motion V2** — editorial / split-showcase / floating-products / story-led / seed `d0aad7da-57bf-4b9a-b1dd-510fc60b7acd`
+- **Kids Toy Gallery V2** — minimal / catalog-grid / cinematic-drift / calm premium / seed `a64768c9-488a-4aee-b58f-99190fd0771a`
+- **Kids Kids Marquee V2** — tech / minimal-premium / grid-pulse / high-conversion / seed `f38cafdd-e898-482b-8691-ec26914a662d`
+- **Kids Nursery Calm V2** — campaign / campaign-drop / soft-reveal / fashion-forward / seed `81832a64-fb25-484b-a8c3-35d4ea27ccb7`
+- **Kids School Commerce V2** — street / lookbook-rail / stagger-rise / technical clear / seed `ef437e84-914c-47c0-a2a2-fdc44f051c2e`
+- **Kids Playroom Bento V2** — organic / comparison-tech / headline-sweep / playful warm / seed `96f2ec2c-cf98-4b30-b000-5234e3b49ad9`
+- **Kids Kids Editorial V2** — playful / storytelling-scroll / magnetic-hover / elevated modern / seed `6c765f53-e38f-48a8-974e-e58404cd32b6`
+- **Kids Baby Story V2** — catalog / mosaic-merch / parallax-soft / story-led / seed `fe819845-6409-44bf-8e67-60503f33d8f4`
+- **Kids Toy Wall V2** — modern / luxury-sparse / floating-products / calm premium / seed `acbd1403-226c-4dd7-aec4-edcc1445cdcf`
+- **Kids Learning Modern V2** — luxury / editorial-hero / cinematic-drift / high-conversion / seed `691d0180-7874-4b75-a076-40324d1cb550`
+- **Kids Kids Campaign V2** — editorial / split-showcase / grid-pulse / fashion-forward / seed `5f4a47e3-37a7-4d6a-97b7-dbd426a25ac5`
+- **Kids Nursery Showcase V2** — minimal / catalog-grid / soft-reveal / technical clear / seed `dfba9669-1a54-4446-82a7-d7ee5bee0913`
+- **Kids Playful Market V2** — tech / minimal-premium / stagger-rise / playful warm / seed `458412d6-b049-40b2-be99-3f9bfc7a016f`
+- **Kids Baby Minimal V2** — campaign / campaign-drop / headline-sweep / elevated modern / seed `52faa004-eab9-4fc9-ba1d-826b8554ba45`
+- **Kids School Bento V2** — street / lookbook-rail / magnetic-hover / story-led / seed `0638325b-4845-430f-9121-c2f351d0367c`
+- **Kids Kids Fashion V2** — organic / comparison-tech / parallax-soft / calm premium / seed `331001c8-ac7c-43c2-826e-71919cb84fd2`
+- **Kids Toy Launch V2** — playful / storytelling-scroll / floating-products / high-conversion / seed `bd9415ee-aa7f-4a08-a295-17bb7e62a095`
+- **Kids Family Store V2** — catalog / mosaic-merch / cinematic-drift / fashion-forward / seed `5a703630-5a71-4d6f-bc74-7f79e22f5e96`
+
+## Tech
+- **Tech Marketplace** — luxury / editorial-hero / parallax-soft / fashion-forward / seed `f1a01cda-50be-4f88-91e3-f73a3713412c`
+- **Tech Premium** — editorial / split-showcase / floating-products / technical clear / seed `d5197ca9-45f0-4da6-be7a-50181bafc672`
+- **Tech Compare** — minimal / catalog-grid / cinematic-drift / playful warm / seed `b8372a01-d9c0-4cbc-9ad5-5e9adbf3e638`
+- **Tech Editorial** — tech / minimal-premium / grid-pulse / elevated modern / seed `efa9347e-b3b4-48c9-b8b8-3cc967cc0f2c`
+- **Tech Deals** — campaign / campaign-drop / soft-reveal / story-led / seed `8f0d6b5a-ae52-47d0-8526-bdf198aabbfb`
+- **Tech Gaming** — street / lookbook-rail / stagger-rise / calm premium / seed `0d95cf86-8a4a-437f-9b27-72abeb79a920`
+- **Tech Minimal** — organic / comparison-tech / headline-sweep / high-conversion / seed `11044b53-1dce-4d83-bf24-2294d1fa2150`
+- **Tech Creator Studio** — playful / storytelling-scroll / magnetic-hover / fashion-forward / seed `0d0698be-e5fd-49fe-b0b2-c9186e3b2078`
+- **Tech Startup Launch** — catalog / mosaic-merch / parallax-soft / technical clear / seed `2a9781f9-63cd-494b-9762-42e2094a6b9e`
+- **Tech Clean Market** — modern / luxury-sparse / floating-products / playful warm / seed `75e976da-7a2d-4228-9818-d2246e415991`
+- **Tech Premium Gallery** — luxury / editorial-hero / cinematic-drift / elevated modern / seed `2a3e4b01-aa99-4c76-882f-54583588dd43`
+- **Tech Subscribe Build** — editorial / split-showcase / grid-pulse / story-led / seed `3c6d3db9-5109-4a1b-a489-0a413a7b7417`
+- **Tech Smart Ring Club** — minimal / catalog-grid / soft-reveal / calm premium / seed `d2fe2d48-14f6-4821-a947-81f6e5d5ada6`
+- **Tech Creator Rig** — tech / minimal-premium / stagger-rise / high-conversion / seed `3bcbbdbe-aef2-4c07-b843-bd5071e0d51b`
+- **Tech Sim Racing** — campaign / campaign-drop / headline-sweep / fashion-forward / seed `3a27bb79-001f-41f2-ae18-16c5c4c5acbc`
+- **Tech Nas Storage** — street / lookbook-rail / magnetic-hover / technical clear / seed `1007e568-b455-48f3-8ac4-9b543303636f`
+- **Tech Smartwatch Launch** — organic / comparison-tech / parallax-soft / playful warm / seed `df95f59e-bd10-48c7-b961-d68ab5dbbd86`
+- **Tech Earbuds Audio** — playful / storytelling-scroll / floating-products / elevated modern / seed `927899d3-0d1f-469b-b47a-67f4ae1a0a75`
+- **Tech Ereader Minimal** — catalog / mosaic-merch / cinematic-drift / story-led / seed `c585ecb9-7f45-4b91-ae66-6ee00e0ec5aa`
+- **Tech Mini Pc Lab** — modern / luxury-sparse / grid-pulse / calm premium / seed `d78a8ec3-2e11-435a-a85f-7f7f73e79ce1`
+- **Tech Streaming Capture** — luxury / editorial-hero / soft-reveal / high-conversion / seed `e3522130-07d1-4814-bea2-f957d573c1f3`
+- **Tech Power Backup** — editorial / split-showcase / stagger-rise / fashion-forward / seed `c22fdaed-1f4f-4a84-9e7a-1e8d1275f0c3`
+- **Tech Phone Launch V2** — minimal / catalog-grid / headline-sweep / technical clear / seed `ab72701c-6a40-4d46-b2f0-a2b1afb60d6d`
+- **Tech Smartphone Gallery V2** — tech / minimal-premium / magnetic-hover / playful warm / seed `850b7ff2-1ccb-431e-a5ff-5e1131cb6e59`
+- **Tech Device Marquee V2** — campaign / campaign-drop / parallax-soft / elevated modern / seed `3979dfed-31eb-42f6-b200-e44d17f6be7f`
+- **Tech Tech Motion V2** — street / lookbook-rail / floating-products / story-led / seed `859a59a8-72e4-4440-a4a4-d3902272d465`
+- **Tech Premium Mobile V2** — organic / comparison-tech / cinematic-drift / calm premium / seed `731d0113-0906-40b4-b5bf-0fac340c127e`
+- **Tech Creator Lab V2** — playful / storytelling-scroll / grid-pulse / high-conversion / seed `11b28ba1-4dd1-459e-8fb8-af1f345073f7`
+- **Tech Gaming Wall V2** — catalog / mosaic-merch / soft-reveal / fashion-forward / seed `2caaf50c-5bcd-423a-b005-d9a9a4b50276`
+- **Tech Smart Home V2** — modern / luxury-sparse / stagger-rise / technical clear / seed `f25952fb-da93-4df7-ba56-893203af3f0c`
+- **Tech Device Bento V2** — luxury / editorial-hero / headline-sweep / playful warm / seed `813e7211-ce66-4f94-ac4a-e4deb8b62a65`
+- **Tech Phone Comparison V2** — editorial / split-showcase / magnetic-hover / elevated modern / seed `67a43706-33e4-4d8a-88da-10f306936381`
+- **Tech Tech Editorial V2** — minimal / catalog-grid / parallax-soft / story-led / seed `7888e408-5f2b-45cb-942d-2cc37dff71cd`
+- **Tech Audio Showcase V2** — tech / minimal-premium / floating-products / calm premium / seed `29e45a44-8c3c-4f18-ab78-49875d25dacf`
+- **Tech Computer Market V2** — campaign / campaign-drop / cinematic-drift / high-conversion / seed `56d3ec8a-f054-4cb6-8e8a-2e3f252c7c8d`
+- **Tech Wearable Launch V2** — street / lookbook-rail / grid-pulse / fashion-forward / seed `986c16c4-0b21-4eb9-a85d-17d1f9ad3cc4`
+- **Tech Minimal Tech V2** — organic / comparison-tech / soft-reveal / technical clear / seed `34156be0-9afa-4bdd-8890-7a848f8b5547`
+- **Tech Gadget Gallery V2** — playful / storytelling-scroll / stagger-rise / playful warm / seed `90b673d1-1b6e-499e-94f9-6f84f4ad24a7`
+- **Tech Tech Campaign V2** — catalog / mosaic-merch / headline-sweep / elevated modern / seed `668c4229-731c-431a-bd68-c9957b906986`
+- **Tech Mobile Store V2** — modern / luxury-sparse / magnetic-hover / story-led / seed `61601ea3-59d0-4abf-b6fc-079b7a0add58`
+

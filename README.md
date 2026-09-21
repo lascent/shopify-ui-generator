@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="public/brand/shopify-ui-generator-logo-256.png" alt="Shopify UI Generator logo" width="120" />
-</p>
-
 <h1 align="center">Shopify UI Generator</h1>
 
 <p align="center">
